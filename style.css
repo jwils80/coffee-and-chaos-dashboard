@@ -1,4 +1,4 @@
-/* PAGE */
+
 
 body {
   margin: 0;
@@ -11,7 +11,7 @@ body {
 }
 
 
-/* STEAM BACKGROUND */
+
 
 .steam-bg {
   position: fixed;
@@ -66,7 +66,7 @@ body {
 }
 
 
-/* DASHBOARD WRAPPER */
+
 
 .dashboard-wrapper {
   max-width: 1100px;
@@ -79,7 +79,7 @@ body {
 }
 
 
-/* GRID */
+
 
 .dashboard {
   max-width: 1000px;
@@ -91,7 +91,7 @@ body {
 }
 
 
-/* CARD STYLE */
+
 
 .box {
   background: #f6efe9;
@@ -107,7 +107,7 @@ body {
 }
 
 
-/* TEXT */
+
 
 .label {
   font-size: 14px;
@@ -122,7 +122,7 @@ body {
 }
 
 
-/* AVATAR CARD */
+
 
 .box1 {
   grid-row: 1 / span 2;
@@ -166,7 +166,7 @@ body {
 }
 
 
-/* TIME CARD */
+
 
 .box2 {
   display: flex;
@@ -175,7 +175,7 @@ body {
 }
 
 
-/* COUNTDOWN CARD */
+
 
 .box3 {
   display: flex;
@@ -184,7 +184,7 @@ body {
 }
 
 
-/* QUOTE CARD */
+
 
 .box4 {
   background: #3a2314;
@@ -209,7 +209,6 @@ body {
 }
 
 
-/* MOBILE */
 
 @media (max-width: 900px) {
   .dashboard-wrapper {

@@ -1,4 +1,4 @@
-/* TIME + GREETING */
+
 
 function updateTime() {
   const now = new Date();
@@ -33,7 +33,7 @@ updateTime();
 setInterval(updateTime, 1000);
 
 
-/* COUNTDOWN */
+
 
 function updateCountdown() {
   const target = new Date("June 16, 2026").getTime();
@@ -49,7 +49,7 @@ updateCountdown();
 setInterval(updateCountdown, 60000);
 
 
-/* ROTATING QUOTES */
+
 
 const quotes = [
   "Everything is fine. Suspiciously fine.",
